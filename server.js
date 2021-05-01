@@ -29,7 +29,7 @@ var server = http.createServer(function (request, response) {
       <html lang="en">
       <head>
         <meta charset="UTF-8">
-        <link rel="stylesheet" href="./style.css">
+        <link rel="stylesheet" href="./style">
       </head>
       <body>
         <h1>Hello World!</h1>
